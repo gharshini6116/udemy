@@ -5,7 +5,7 @@ import seaborn as sns
 import streamlit as st
 import random
 from PIL import Image
-logo = Image.open('logo.png')
+logo = Image.open('logo (1).png')
 #pip install pandas numpy matplotlib seaborn streamlit
 #to run strealit :   streamlit run test2.py 
 st.set_page_config(page_title="NetFlix  EDA", page_icon=":bar_chart:", layout="wide")
